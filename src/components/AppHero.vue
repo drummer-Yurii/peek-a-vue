@@ -33,7 +33,7 @@
       <span> & </span>
       <a
         :class="$style['powered-link']"
-        href="https://drummer-yurii.github.io/peek-a-vue"
+        href="https://github.com/drummer-Yurii/peek-a-vue"
       >
         <img
           :class="$style['powered-logo']"
